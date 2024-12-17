@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+    <!-- Function Box in Center -->
+    <rect x="350" y="270" width="100" height="60" fill="#B0C4DE" stroke="black"/>
+    <text x="400" y="300" text-anchor="middle" font-size="12">Function</text>
+    <text x="400" y="315" text-anchor="middle" font-size="12">ระบบของ</text>
+    <text x="400" y="330" text-anchor="middle" font-size="12">กิจกรรมพิเศษ</text>
+
+    <!-- ผู้ดูแลระบบ Box -->
+    <rect x="50" y="50" width="250" height="200" fill="white" stroke="black"/>
+    <text x="175" y="70" text-anchor="middle" font-size="14" font-weight="bold">ผู้ดูแลระบบ</text>
+    <text x="60" y="90" font-size="10">- จัดเก็บค่าใช้ในระบบ</text>
+    <text x="60" y="105" font-size="10">- จัดสิทธิ์ให้ ผู้ดูแลระบบ</text>
+    <text x="60" y="120" font-size="10">- จัดการข้อมูลของกิจกรรมพิเศษ</text>
+    <text x="60" y="135" font-size="10">- รายงานที่อื่นๆ</text>
+    <text x="60" y="150" font-size="10">- จัดเก็บเอกสาร</text>
+    <text x="60" y="165" font-size="10">- จัดหมวดหมู่</text>
+    <text x="60" y="180" font-size="10">- การแสดงรายงานนักเรียน</text>
+    <text x="60" y="195" font-size="10">- อนุมัติให้ตอบแบบกิจกรรมพิเศษ</text>
+    <text x="60" y="210" font-size="10">- จัดการข้อมูลนักเรียน นักศึกษา</text>
+
+    <!-- นายทะเบียน Box -->
+    <rect x="50" y="350" width="250" height="200" fill="white" stroke="black"/>
+    <text x="175" y="370" text-anchor="middle" font-size="14" font-weight="bold">นายทะเบียน</text>
+    <text x="60" y="390" font-size="10">- ลงชื่อเข้าใช้ในระบบ</text>
+    <text x="60" y="405" font-size="10">- จัดสิทธิ์ให้ นายทะเบียน</text>
+    <text x="60" y="420" font-size="10">- จัดการข้อมูลของกิจกรรมพิเศษ</text>
+    <text x="60" y="435" font-size="10">- รายงานที่อื่นๆ</text>
+    <text x="60" y="450" font-size="10">- จัดเก็บเอกสาร</text>
+    <text x="60" y="465" font-size="10">- อนุมัติให้ตอบแบบกิจกรรมพิเศษ</text>
+    <text x="60" y="480" font-size="10">- จัดการข้อมูลนักศึกษา</text>
+
+    <!-- นักเรียน นักศึกษา Box -->
+    <rect x="500" y="50" width="250" height="200" fill="white" stroke="black"/>
+    <text x="625" y="70" text-anchor="middle" font-size="14" font-weight="bold">นักเรียน นักศึกษา</text>
+    <text x="510" y="90" font-size="10">- ลงทะเบียน</text>
+    <text x="510" y="105" font-size="10">- มีช่องนามสกุล</text>
+    <text x="510" y="120" font-size="10">- รหัสประจำนักศึกษา</text>
+    <text x="510" y="135" font-size="10">- แผนก</text>
+    <text x="510" y="150" font-size="10">- รหัสผ่าน</text>
+    <text x="510" y="165" font-size="10">- ผู้ประจำตัว</text>
+    <text x="510" y="180" font-size="10">- ลงชื่อเข้าใช้ในระบบ</text>
+    <text x="510" y="195" font-size="10">- สถานะเอกสารกิจกรรมพิเศษ</text>
+    <text x="510" y="210" font-size="10">- จัดการข้อมูลของตัวเอง</text>
+
+    <!-- Connection Lines -->
+    <line x1="400" y1="270" x2="175" y2="250" stroke="black"/>
+    <line x1="400" y1="300" x2="175" y2="350" stroke="black"/>
+    <line x1="400" y1="300" x2="625" y2="250" stroke="black"/>
+</svg>
